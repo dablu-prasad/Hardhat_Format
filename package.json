@@ -1,0 +1,17 @@
+{
+  "name": "erc20-ico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dablu prasad",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3"
+  }
+}
